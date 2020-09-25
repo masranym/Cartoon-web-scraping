@@ -1,0 +1,31 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    max-height: 180px;
+    box-shadow: 0 0 8px 0 rgba(0,0,0.3,0.2);
+    padding: 10px;
+    margin: 10px;
+    flex-direction: row;
+    
+}
+.color{
+    color: #e94560;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 16px;
+
+   
+}
+.texttitle{
+    font-weight: bold;
+    color: #1a1a2e;
+}
+.textep{
+    font-weight: bold;
+    font-size: 15px;
+    color: #4e89ae;
+    font-style: oblique;
+}

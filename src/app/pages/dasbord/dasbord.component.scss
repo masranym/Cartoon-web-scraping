@@ -1,0 +1,11 @@
+.outcard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.addButtom{
+    flex-direction: row-reverse;
+    position: fixed;
+    right: 16px;
+    bottom: 8px;
+}
